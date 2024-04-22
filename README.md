@@ -1,4 +1,4 @@
-# Vrandha-store-annual-sales-report-Data analysis using Excel
+#Vrandha Store Annual Sales Report -Excel Dashboard Analysis
 To analyze consumer behavior trends in 2022.
 To outline growth strategies for increasing sales in 2023.
 Data analysis through dashboard using excel.
